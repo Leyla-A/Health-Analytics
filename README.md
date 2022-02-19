@@ -1,4 +1,4 @@
-## Health Analytics Logistic Regression to Guide Treatment for Diabetes Patients
+## Health Analytics: Logistic Regression to Guide Treatment for Diabetes Patients
 
 **Abstract** - Diabetes, which affects millions of lives worldwide, is
 a chronic disease that requires constant monitoring and clinical
